@@ -1,3 +1,8 @@
 # Ecommerce-Sales-Analytics
 Developed an End-To-End Ecommerce Sales Analytics that transforms raw sales data into actionable business insights using data cleaning, SQL analysis, KPI tracking, and interactive dashboards.
+The Ecommerce Sales Analytics project successfully analyzed sales performance, profitability, customer behavior, and regional trends. The project demonstrates skills in data cleaning, exploratory data analysis, SQL querying, business intelligence reporting, and dashboard development.
+Recommendation
+
+Based on the analysis, the company should focus on improving profitability in underperforming categories such as Furniture by reviewing discount strategies, shipping costs, and pricing models. Since the West region contributes the highest sales while the South region lags behind, targeted marketing campaigns and regional expansion strategies should be implemented in low-performing areas to improve customer reach and revenue generation. The Technology category and products like Phones have shown strong profitability and demand, so inventory planning and promotional efforts should prioritize these high-performing products. Additionally, because the Consumer segment contributes the largest share of sales, personalized marketing, loyalty programs, and customer retention strategies can further strengthen business growth. The analysis also indicates that excessive discounts negatively affect profit margins, suggesting that the business should optimize discount policies to balance customer acquisition with long-term profitability.
+
 <img width="887" height="494" alt="image" src="https://github.com/user-attachments/assets/f28c1ce3-8f6c-4ae7-bfec-43f73d84972b" />
